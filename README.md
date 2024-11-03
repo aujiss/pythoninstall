@@ -8,7 +8,7 @@
 
 **2. Run the command below  the command below and wait 1 to 5 minutes.**
 ```
-
+bash <(curl -fsSL https://raw.githubusercontent.com/aujiss/pythoninstall/refs/heads/main/ins.sh)
 ```
 - **After waiting about 1 to 5 minutes `(depending on your network speed)`, it will appear as shown below, which means you are successful.**
 ![alt text](https://raw.githubusercontent.com/aujiss/pythoninstall/refs/heads/main/images/images.jpg)
